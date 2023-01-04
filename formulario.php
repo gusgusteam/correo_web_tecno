@@ -20,7 +20,7 @@
                   <input type="text" name="txtCorreoDestinatario" id="txtCorreoDestinatario" class="form-control mt-4" placeholder="Ingrese correo destinatario">
                   <input type="text" name="txtAsunto" id="txtAsunto" class="form-control mt-4" placeholder="Ingrese Asunto">
                   <textarea name="txtMensaje" id="txtMensaje" cols="30" rows="4" class="form-control mt-4"></textarea>
-                  <button name="enviar" id="enviar" type="submit" class="btn btn-primary">Enviar Correo</button>
+                  <button name="enviar" id="enviar" type="submit" class="btn btn-primary">Enviar</button>
               </form>
               </div>
               <div class="card-foooter">
